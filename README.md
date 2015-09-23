@@ -1,2 +1,5 @@
-# spark-FM-parallelSGD
-Implementation on Factorization Machines on Spark using parallel stochastic gradient descent (python and scala)
+# FM on Spark with parallel SGD
+
+Implementation of Factorization Machines on Spark using parallel stochastic gradient descent (python and scala)
+
+Soon...
