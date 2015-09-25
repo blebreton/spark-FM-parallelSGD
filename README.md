@@ -7,7 +7,9 @@ Factorization Machines is a smart general predictor introduced by Rendle in [201
 I built a custom Spark implementation to use in Python and Scala.
 To make optimum use of  parallel computing in Spark, I implemented Parallel Stochastic Gradient Descent to train the FMs. This forms an alternative to Mini-batch SGD, which is currently available in MLLib to train Logistic Regression models.
 
-
+ ![parallel-sgd](img/parallel_sgd.PNG)
+ 
+ 
 
 This implementation shows impressive results in terms of speed and effectivness.
 
