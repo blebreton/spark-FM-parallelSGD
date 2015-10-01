@@ -19,8 +19,8 @@ I worked on this project during my summer internship at ING Netherlands in 2015.
 
 
 ## Tutorial
-Here's a short tutorial on how to write a script how to use them in pyspark. (Note: the procedure is quite the same in scala, see below)
-You may prefer try it directly using the ipython notebook tutorial ‘FMonSpark_demo_a9a’. You will need to download the [a9a dataset](https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/binary.html#a9a) first.
+Here's a short tutorial on how to use them in pyspark. (Note: the procedure is quite the same in scala, see below)
+You may prefer try it directly using the ipython notebook tutorial *FMonSpark_demo_a9a.ipynb*. You will need to download the [a9a dataset](https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/binary.html#a9a) first.
 
 
 
