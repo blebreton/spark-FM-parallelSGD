@@ -34,7 +34,7 @@ You may prefer try it directly using the ipython notebook tutorial ‘FMonSpark_
 
    or by running the codes directly when starting spark:
 
-   **pyspark –py-files workspace/spark_summit/fm/fm_parallel_sgd.py**
+   **pyspark –py-files spark-fm-parallelSGD/fm/fm_parallel_sgd.py**
 
 
 2. Preprocess your data such that you
