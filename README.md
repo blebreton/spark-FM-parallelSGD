@@ -28,13 +28,13 @@ You may prefer try it directly using the ipython notebook tutorial *FMonSpark_de
 
 1. import the script **fm_parallel_sgd.py**. You can do this by adding the following lines to your code:
 
-   **sc.addPyFile("spark-fm-parallelSGD/fm/fm_parallel_sgd.py")**
+   **sc.addPyFile("spark-FM-parallelSGD/fm/fm_parallel_sgd.py")**
 
    **import fm_parallel_sgd as fm**
 
    or by running the codes directly when starting spark:
 
-   **pyspark –py-files spark-fm-parallelSGD/fm/fm_parallel_sgd.py**
+   **pyspark –py-files spark-FM-parallelSGD/fm/fm_parallel_sgd.py**
 
 
 2. Preprocess your data such that you
@@ -72,13 +72,13 @@ You may prefer try it directly using the ipython notebook tutorial *FMonSpark_de
 
 ### Scala
 
-1. import the script **fm_parallel_sgd.py**. You can do this by adding the following lines to your code:
+1. Load the file **fm_parallel_sgd.scala**. You can do this by adding the following lines to your code:
 
-    **:load spark-fm-parallelSGD/fm/fm_parallel_sgd.scala**
+    **:load spark-FM-parallelSGD/fm/fm_parallel_sgd.scala**
 
     or by running the code directly when starting spark
 
-    **spark-shell –i spark-fm-parallelSGD/fm/ fm_parallel_sgd.scala**
+    **spark-shell –i spark-FM-parallelSGD/fm/fm_parallel_sgd.scala**
 
 
 2. Preprocess your data such that you
